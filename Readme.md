@@ -13,7 +13,7 @@ Mostra gráfico dos ultímos dias
 <div align="center">
     <img height="480" width="480" src="assets/images/moedas.png"/>
 </div> 
-<br><br>
+<br>
 
 ## Instalação
 Você pode clonar o repositório ou baixar o .zip
