@@ -1,0 +1,60 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Anton;
+}
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100%;
+    width: 100vw;
+}
+.select-moedas {
+    margin: 10px 10px;
+    margin-top: 50px;
+}
+.select-moedas select {
+    height: 30px;
+    font-size: 16px;
+}
+.select-moedas select option {
+    font-size: 16px;
+}
+.containes {
+    width: 570px;
+}
+.container {
+    padding: 20px 30px;
+    display: flex;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    flex-direction: column;
+}
+.container p {
+    color: #908d8d;
+    font-size: 20px;
+}
+.container h2 {
+    font-size: 35px;
+}
+.container form {
+    display: flex;
+    flex-direction: column;
+}
+.container form input {
+    width: 250px;
+    margin: 3px 0;
+    height: 40px;
+    padding-left: 5px;
+    font-size: 30px;
+}
+.graphic-moeda {
+    margin-top: 20px;
+    width: 570px;
+}
+.graphic-moeda h2 {
+    font-size: 18px;
+}

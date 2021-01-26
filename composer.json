@@ -1,0 +1,8 @@
+{
+    "name":"marlon/cotacao-moedas",
+     "autoload":{
+         "psr-4":{
+             "app\\":"app/"
+         }
+     }
+}
