@@ -11,7 +11,7 @@ Mostra gráfico dos ultímos dias
 
 ## Imagem de demonstração
 <div align="center">
-    <img height="400"  src="assets/images/moedas.png"/>
+    <img height="480" width="480" src="assets/images/moedas.png"/>
 </div> 
 <br><br>
 
